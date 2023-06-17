@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "bodil.prettier-toml",
+    "bungcip.better-toml",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "foxundermoon.shell-format",
+    "mikestead.dotenv",
+    "ms-python.black-formatter",
+    "ms-python.python",
+    "rintoj.blank-line-organizer",
+    "streetsidesoftware.code-spell-checker",
+    "timonwong.shellcheck"
+  ]
+}

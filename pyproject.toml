@@ -1,0 +1,6 @@
+[project]
+name = "python_starter"
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
